@@ -88,6 +88,7 @@ def main():
 		elif a=='2' and x==1:
 			print('You LOST this time :{')
 			
+			
 			comp+=1
 			print()
 			print('The current scores are:')
