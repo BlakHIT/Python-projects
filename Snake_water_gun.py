@@ -8,7 +8,6 @@ def name():
 	print()
 	
 def rules():
-	
 	print('This game will take place between you and the computer')
 	print('and will continue till someone completes 6 points')
 	print()
