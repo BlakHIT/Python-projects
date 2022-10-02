@@ -21,6 +21,7 @@ def rules():
 	print()
 	print('All the best')
 	print()
+	
 def main():
 	global m
 	global n
